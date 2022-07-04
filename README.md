@@ -10,23 +10,19 @@ Satisfy is an application that is designed for users who are unsure of what they
 
 
 User Story:
-**AS a person** who wants to have a meal 
+**AS a person** who is preparing for my next meal.
 
 **I want** to easily assess if I have the right ingredients to make a meal or if there is an eatery nearby.
 
 **SO that I** can decide if I want to make a meal at home or go out for a meal.
 
-Initial Wireframe:
-
-Link for wireframe:
-https://drive.google.com/file/d/10qSAEp271dWqorxWUp-54UL1kVd3vMNq/view?usp=sharing
-
 APIs used:
+
 Geolocalization - Google Maps: https://developers.google.com/maps 
+
 Recipe Search - Edamam API: https://www.edamam.com/ 
 
 Screenshots of the actual developed page:
-
 Home page
 <img width="887" alt="Satisfy 1" src="https://user-images.githubusercontent.com/103231213/177076187-e8cf89df-e144-4646-bca4-9a063feb6d6a.PNG">
 
@@ -36,7 +32,7 @@ Dine  in
 Dine out
 <img width="911" alt="Satisfy 3" src="https://user-images.githubusercontent.com/103231213/177076273-3a114fe8-bab1-4abc-aa39-22fc6df2fa2d.PNG">
 
-Link to Deployed URL:
+Link to Deployed URL: https://g-murphy03.github.io/07-Project-Satisfy/
 
 
 
