@@ -1,13 +1,15 @@
-# 07-Project-Quench
+# 07-Project-Satisfy
 
 Project Title: 
 Dine in or out (Satisfy ..your cravings)
 
 Project Description: 
-This application will allow the users to find and save recipes by choosing available ingredients. It will also recommend possible eating locations using geolocalization of the user.
+Modern problems require modern solutions! So in great fashion we set to answer one of the world’s most asked question…. What will we have for dinner?
+
+Satisfy is an application that is designed for users who are unsure of what they can cook with the ingredients available, by using satisfy, these users can type in available ingredients and receive a range of delicious ideas which they are able to use and save to use again. Further, Satisfy has the functionality of recommending nearby eating locations through the user inputting a specific suburb. Therefore, Satisfy is convenient for users to make a choice to either cook meals depending on easily accessible ingredients or through searching for close eateries to enjoy a nice meal out. 
+
 
 User Story:
-
 **AS a person** who wants to have a meal 
 
 **I want** to easily assess if I have the right ingredients to make a meal or if there is an eatery nearby.
@@ -18,6 +20,10 @@ Initial Wireframe:
 
 Link for wireframe:
 https://drive.google.com/file/d/10qSAEp271dWqorxWUp-54UL1kVd3vMNq/view?usp=sharing
+
+APIs used:
+Geolocalization - Google Maps: https://developers.google.com/maps 
+Recipe Search - Edamam API: https://www.edamam.com/ 
 
 Screenshots of the actual developed page:
 
@@ -30,25 +36,7 @@ Dine  in
 Dine out
 <img width="911" alt="Satisfy 3" src="https://user-images.githubusercontent.com/103231213/177076273-3a114fe8-bab1-4abc-aa39-22fc6df2fa2d.PNG">
 
+Link to Deployed URL:
 
 
 
-APIs used:
-Geolocalization - Google Maps: https://developers.google.com/maps 
-Recipe Search - Edamam API: https://www.edamam.com/ 
-
-The project was divided in 3 main different approaches; the overall structure and style of the entire page, the API for geolocalisation and the API for the recipe search: 
-
-A basic breakdown of tasks was:
-
-ItsGeeBee - Grace - Google Maps API
-https://github.com/Shaitan5723 (Alex) - Food API
-Juan - Google Maps API
-https://github.com/CtoscanoC/CtoscanoC (Carlos) - Food API, Presentation, Styling 
-https://github.com/G-murphy03 (George) - Food API, Project Description
-
-Group meetings:
-22nd of June, 6:30pm. https://toshiba.zoom.us/j/2902270937. 
-Meeting ID: 290 227 0937
-
-The end product and presentation was checked by all team members and it was identified future developments and how the project should be presented

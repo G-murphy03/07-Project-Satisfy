@@ -60,13 +60,8 @@ body {
     display: block;
     width: 100%;
     margin-top: 2%;
-    }
+}
 
-
-
-/* .row {
-   margin-top: 3%; 
-} */
 #searchBox{
     border: solid 4px #765a71;
     border-radius: 12px;
@@ -170,21 +165,28 @@ nav {
     font-family: 'Sansita', sans-serif;
 }
   
-.dropdown-content a:hover {background-color: #ddd}
+.dropdown-content a:hover {
+    background-color: #ddd
+}
   
 
-.show {display:block;}
+.show {
+    display:block;
+}
 
 .btn-primary {
     background-color: #765a71;
     border-color: #765a71;
 }
+
 .btn-primary:hover {
     background-color: #e8bfe0;
     border-color: #e8bfe0;
 }
 
-.show {display:block;}
+.show {
+    display:block;
+}
 
 .card-heading {
     font-family: 'Sansita', sans-serif;
